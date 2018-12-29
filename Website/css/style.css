@@ -112,33 +112,17 @@ header a:hover{
 /* newsletter */
 
 #newsletter{
-  padding:90px;
-  color:#ffffff;
-  background:#696969;
-  border-bottom:#000000 3px solid;
+  padding-top:90px;
+  color:#000000;
+  border-top:#000000 3px solid;
 }
 
 #newsletter h1{
-  float:left;
+  float:center;
   margin-top:-20px;
+  text-align: center;
 }
 
-#newsletter form{
-  float:right;
-  margin-top:-40px;
-}
-
-#newsletter input[type="Name"]{
-  padding:4px;
-  height:25px;
-  width:250px;
-}
-
-#newsletter input[type="email"]{
-  padding:4px;
-  height:25px;
-  width:250px;
-}
 
 /* Boxes */
 
@@ -161,8 +145,7 @@ header a:hover{
 }
 
 footer{
-  padding:20px;
-  margin-top:20px;
+  padding:-50px;
   color:#000000;
   text-align:center;
 }
